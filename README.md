@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently learning python full stack developement
+I am currently learning python full stack developement
 
 
 ## 🌐 Socials:
